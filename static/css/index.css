@@ -1,0 +1,21 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+canvas{
+    position: absolute;
+    top: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    border: 1px solid black;
+}
+
+h4{
+	text-align: center;
+	margin-top: 10px;
+	cursor: pointer;
+	border: 1px solid black;
+	width: 500px;
+}
